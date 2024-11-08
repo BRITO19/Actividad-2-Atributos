@@ -1,0 +1,30 @@
+header{
+ margin: 2%;
+
+}
+table{
+   width: 60%;
+   font-size: large;
+   margin:2%;
+   margin-top: -0.90%;
+   background-color: black;
+
+   
+
+    
+    
+}
+tbody{
+    background-color:rgb(255, 255, 255);
+}
+h3{
+   width: 60%;
+   background-color: rgb(177, 210, 241);
+   margin: 2%;
+   font-size:larger;
+}
+
+thead{
+    background-color:rgb(177, 210, 241);
+    
+}
